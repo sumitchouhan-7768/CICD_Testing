@@ -135,5 +135,5 @@ with open('scores.txt', "w") as score:
     score.write("F1 Score: %2.1f%%\n" % f1_lr)
     score.write("Recall Score: %2.1f%%\n" % recall_lr)
     score.write("Precision Score: %2.1f%%\n" % prec_lr)
-train_model.py
-Displaying train_model.py
+mlcode.py
+Displaying mlcode.py
